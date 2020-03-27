@@ -25,9 +25,4 @@ El método tiene como objetivo filtrar la identificacion almacenada en un Codigo
 	zxing-1.7-javase
 
 
-# Descargar el código fuente
-1. Enviar un email a marto.nieto.g16@gmail.com, con Asunto: Codigo Fuente QR Filter
-2. Le Estaremos Enviando las instruciones a seguir
-
-
 #:Author: Marto Nieto Guerrero
